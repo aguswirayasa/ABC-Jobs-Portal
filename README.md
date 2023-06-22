@@ -44,7 +44,7 @@ To run the Know Your Neighborhood project locally, please follow these steps:
    mysql> create database abcjobs
    ```
 4. Configure persistence.xml for Database Username and Passwor
-   ````````````````````````````````````````````````````````
+   ```
    <persistence-unit name="community">
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/abcjobs"/>
@@ -56,28 +56,37 @@ To run the Know Your Neighborhood project locally, please follow these steps:
 		</properties>
 	</persistence-unit>
 </persistence>
-   `````````````````````````````````````````````````````````
+ 
 6. Run application on Tomcat Server 9.0
 
 ## Screenshoot
 ### Landing Page
-![landing page](https://github.com/aguswirayasa/kyn/blob/master/Know%20Your%20Neighborhood%20Screenshoot/landing.png)
-
-### About us Page
-![About us page](https://github.com/aguswirayasa/kyn/blob/master/Know%20Your%20Neighborhood%20Screenshoot/about-us.jpeg)
-### Contact us Page
-
-![Contact us page](https://github.com/aguswirayasa/kyn/blob/master/Know%20Your%20Neighborhood%20Screenshoot/contact-us.png)
+![landing page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/landing.png)
 
 ### Login Page
-![Login page](https://github.com/aguswirayasa/kyn/blob/master/Know%20Your%20Neighborhood%20Screenshoot/login.png)
+![Login page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/login.png)
+
+### Forget Password Page
+![Login page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/forget-password.png)
+
+### Forget Password Success Page
+![Login page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/reset-success.png)
 
 ### Registration Page
-![Registration page](https://github.com/aguswirayasa/kyn/blob/master/Know%20Your%20Neighborhood%20Screenshoot/registration.png)
+![Registration page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/register.png)
+
+### Registration Success Page
+![Registration page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/register-succes.png)
 
 ### Dashboard
-![Dashboard page](https://github.com/aguswirayasa/kyn/blob/master/Know%20Your%20Neighborhood%20Screenshoot/profile.png)
+![Dashboard page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/dashboard.png)
+
+### Search Page
+![Dashboard page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/search.png)
+
+### Profile Page
+![Dashboard page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/profile.png)
 
 ### Manage user Page
-![Manage user page](https://github.com/aguswirayasa/kyn/blob/master/Know%20Your%20Neighborhood%20Screenshoot/manage-user.png)
+![Manage user page](https://github.com/aguswirayasa/ABC-Jobs-Portal/blob/main/ABC%20Jobs%20Screenshoot/manage-user.png)
 
