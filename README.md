@@ -4,25 +4,25 @@ A web application that allow users to find jobs and make connection. On this app
 
 ## Project Overview
 
-There are 2 types of users in this Community portal. They are
+### There are 2 types of users in this Community portal. They are
 
-    Software Programmer
-    Administrator
+- Software Programmer
+- Administrator
 
-Software Programmer can perform following functions in the portal
+### Software Programmer can perform following functions in the portal
 
-    Login and Register in to the portal
-    Search & Find Other Programmers after login and view their profile.
-    Change password retrieval functionality.
-    Update their Profile after logging in.
-    Create Threads & Post Replies to a Thread
-    Post Job Opportunities in the Portal
-    Apply for Job Opportunities in the portal
+- Login and Register in to the portal
+- Search & Find Other Programmers after login and view their profile.
+- Change password retrieval functionality.
+- Update their Profile after logging in.
+- Create Threads & Post Replies to a Thread
+- Post Job Opportunities in the Portal
+- Apply for Job Opportunities in the portal
 
-Administrator can perform following functions in the portal
+### Administrator can perform following functions in the portal
 
-    Administer user data.
-    Send bulk email inviting programmers to register on the community portal
+- Administer user data.
+- Send bulk email inviting programmers to register on the community portal
 
 ## Technologies Used
 
